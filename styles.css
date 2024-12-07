@@ -1,0 +1,11 @@
+html{
+    color: red;
+    background: rgb(59, 199, 250);
+    font-family: helvetica;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+input{
+    border-color: transparent;
+}
